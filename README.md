@@ -1,4 +1,4 @@
-# Password Manager
+# PasswordManager
 
 A simple password manager app written in Python using the `cryptography` library for encryption and decryption.
 
